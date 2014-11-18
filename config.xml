@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0.1">
+  <name>Двачмонитор</name>
+  <author>anon</author>
+  <description xml:lang="ru">Инструмент для мониторинга новых постов</description>
+  <icon src="images/icon.png" width="128" height="128"/>
+  <access origin="https://2ch.hk/" subdomains="true"/>
+  <access origin="http://2ch.hk/" subdomains="true"/>
+  <access origin="https://2ch.pm/" subdomains="true"/>
+  <access origin="http://2ch.pm/" subdomains="true"/>
+</widget>
